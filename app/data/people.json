@@ -7,7 +7,7 @@
   {
     "name": "Jacob Zwerling",
     "role": "BA",
-    "imageDir": "/images/peopleHeadshots/AlexRamirez.jpg"
+    "imageDir": "/images/peopleHeadshots/JacobZwerling.jpg"
   },
   {
     "name": "Alex Ramirez",
@@ -27,6 +27,6 @@
   {
     "name": "Simran Duggi",
     "role": "SWE",
-    "imageDir": "/images/peopleHeadshots/AlexRamirez.jpg"
+    "imageDir": "/images/peopleHeadshots/SimranDuggi.png"
   }
 ]
